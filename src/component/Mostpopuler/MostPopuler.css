@@ -1,0 +1,37 @@
+.feature{
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+    background-color: black;
+    border-radius: var(--border-rd);
+}
+.feature .title{
+    margin: 10px 5px;
+    padding: 10px;
+}
+.feature .title h2{
+    text-transform: capitalize;
+    font-size: 40px;
+    position: relative;
+}
+.feature .title h2::after{
+    position: absolute;
+    content: "";
+    width: 218px;
+    height: 3px;
+    background-color: white;
+    top: 85%;
+    left: 0;
+}
+.feature .title h2 span{
+    text-transform: capitalize;
+    color: var(--pink-color);
+}
+.feature .items{
+    
+   width: 80%;
+   margin: auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(150px,1fr));
+    gap: 10px;
+}

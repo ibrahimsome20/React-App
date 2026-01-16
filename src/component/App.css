@@ -1,0 +1,28 @@
+:root{
+  --bg-drak:#27292a;
+  --pink-color:#e75e8d;
+  --border-rd:20px;
+} 
+
+*{
+  color: white;
+  margin: 0;
+  padding: 0;
+box-sizing: border-box;
+--moz-box-sizing: border-box;
+--webkit-box-sizing: border-box;
+
+}
+body{
+  background-color: black;
+}
+
+
+
+
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
