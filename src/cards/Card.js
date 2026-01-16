@@ -7,7 +7,7 @@ export const Card = (prob) => {
     <>
          <div className='card'>
         <div className='img-card'>
-            <img src={prob.imgCard}></img>
+            <img src={prob.imgCard} alt="image-app"></img>
         </div>
         <div className='info-card'>
             <h4>{prob.title}<br/>{prob.title2}</h4>

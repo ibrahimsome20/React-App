@@ -1,4 +1,4 @@
-# React App ⚛️
+# React App 
 
 A modern and responsive React application built to demonstrate clean component structure, reusable logic, and a smooth user interface.
 
@@ -19,9 +19,11 @@ The app is suitable for learning:
 - Easy to extend and customize
 
 ## Screenshots
-![React App Screenshot](./Screenshot/react-app.png)
+![React App Screenshot](./Screenshot/one.png)
+![React App Screenshot](./Screenshot/two.png)
+![React App Screenshot](./Screenshot/three.png)
 
-> Make sure the screenshot exists in the `Screenshot` folder and the filename matches exactly.
+
 
 ## Technologies Used
 - React
@@ -34,7 +36,7 @@ The app is suitable for learning:
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ibrahimsome20/react-app.git
+   git clone https://github.com/ibrahimsome20/React-App.git
 ## isnstall dependencies 
 ```bash
 npm install
